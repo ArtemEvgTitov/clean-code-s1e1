@@ -42,10 +42,10 @@
 .section__title {
     list-style:none;
 }
-.section__input,.section__checkbox,.section__button__add,.section__button__edit,.section__button__delete{
+.section__input,.section__checkbox,.section__button,.section__button__edit,.section__button__delete{
     outline:none;
 }
-.section__button__add,.section__button__edit,.section__button__delete {
+.section__button,.section__button__edit,.section__button__delete {
     background: none;
     border: 0px;
     color: #888;
