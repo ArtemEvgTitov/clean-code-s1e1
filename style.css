@@ -43,13 +43,13 @@
 }
 
 .section__list {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
 .section__item, 
 .section__title {
-    list-style:none;
+    list-style: none;
 }
 
 .section__input,
@@ -57,7 +57,7 @@
 .section__button,
 .section__button__edit,
 .section__button__delete{
-    outline:none;
+    outline: none;
 }
 
 .section__button,
@@ -165,9 +165,9 @@
 
 /* Edit Task */
 .section__input__invisible {
-    display:none;
+    display: none;
 }
 
 .section__label__invisible {
-    display:none;
+    display: none;
 }
